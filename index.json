@@ -12,9 +12,9 @@
         "name": "MangaTaro",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangataro",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mangataro-v1.6.0.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/0d83f6b-0/tachiyomi-all.mangataro-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangataro/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mangataro-v1.6.0.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/0d83f6b-0/tachiyomi-all.mangataro-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -33,9 +33,9 @@
         "name": "Mangahere",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangahere",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangahere-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/0d83f6b-0/tachiyomi-en.mangahere-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahere/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangahere-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/0d83f6b-0/tachiyomi-en.mangahere-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
